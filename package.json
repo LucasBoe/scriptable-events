@@ -1,0 +1,19 @@
+{
+  "name": "com.lucasboe.scriptable-events",
+  "displayName": "LucasBoe ScriptableEvents",
+  "version": "0.0.1",
+  "unity": "2020.3",
+  "description": "a solution for non descructive cross scene event references.",
+  "keywords": [
+    "unity",
+    "unity3d",
+    "lucasboe"
+  ],
+  "homepage": "https://github.com/lucasboe/scriptable-events.git",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/lucasboe/scriptable-events.git"
+  },
+  "hideInEditor": "false",
+  "author": "LucasBoe (https://l-boe.de)"
+}
