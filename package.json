@@ -1,7 +1,7 @@
 {
   "name": "com.lucasboe.scriptable-events",
   "displayName": "LucasBoe ScriptableEvents",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "unity": "2020.3",
   "description": "a solution for non descructive cross scene event references.",
   "keywords": [
