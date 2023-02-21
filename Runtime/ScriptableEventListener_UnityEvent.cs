@@ -5,6 +5,6 @@ using UnityEngine.Events;
 
 public class ScriptableEventListener_UnityEvent : ScriptableEventListener_Base
 {
-    UnityEvent unityEvent;
+    [SerializeField] UnityEvent unityEvent;
     protected override void OnGotCalled() => unityEvent?.Invoke();
 }
